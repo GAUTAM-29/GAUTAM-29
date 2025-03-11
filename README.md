@@ -22,15 +22,14 @@
 
 ###
 
-<img align="right" height="160" src="https://github.com/user-attachments/assets/eed585cb-7b9d-4406-a419-5c96cf95c613"  />
+<img align="right" height="180" width="180" src="https://github.com/user-attachments/assets/eed585cb-7b9d-4406-a419-5c96cf95c613"  />
 
 
 ###
 
 <br clear="both">
 
-<a href="https://linkedin.com/in/gautam-acharya-874a4331a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-acharya-874a4331a" height="60" width="60" /></a>
-<a href="https://instagram.com/_gautam.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gautam.a" height="60" width="60" /></a>
+<a href="https://linkedin.com/in/gautam-acharya-874a4331a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-acharya-874a4331a" height="60" width="60" /></a>     <a href="https://instagram.com/_gautam.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gautam.a" height="60" width="60" /></a>
 
 <img align="center" src="https://github.com/user-attachments/assets/013188ea-b382-4585-8016-293dca17048b">
 

@@ -29,7 +29,17 @@
 
 <br clear="both">
 
-<a href="https://linkedin.com/in/gautam-acharya-874a4331a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-acharya-874a4331a" height="60" width="60" /></a>     <a href="https://instagram.com/_gautam.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gautam.a" height="60" width="60" /></a>
+<div align="left">
+  <a href="https://www.instagram.com/_gautam.a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gautam-acharya-874a4331a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrZkkXjDrlmbRnghxVZxTkpGfsxsQKVhvkTdmdkDbFmzdDKjRdzHTfwkWvnKJBqMczg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
+  </a>
+</div>
 
 <img align="center" src="https://github.com/user-attachments/assets/013188ea-b382-4585-8016-293dca17048b">
 
